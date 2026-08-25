@@ -1,0 +1,6 @@
+{
+  "name": "LIMITLESS",
+  "description": "Mobile shopping app for LIMITLESS Y2K futuristic streetwear clothing brand.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
